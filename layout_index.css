@@ -1,0 +1,79 @@
+  
+form{
+    width: 400px;
+    margin: auto;
+    padding-top: 100px;
+    border-radius: 5px;
+}
+
+body,html{
+    height: 100%;
+    margin: 0px;
+}
+body{
+    background-image:url(imagens/tela_f2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-color: black;
+}
+.card-group >label{
+    width: 100%;
+    color: rgb(255, 255, 255) ;
+    display: block;
+    font-family: 'Courier New', Courier, monospace;
+}
+.card-group >input{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-position: center;
+    border-radius: 5px;
+    outline: 0;
+    width: 95%;
+    color:black;
+    padding: 5px;
+}
+.card-group {
+    margin-bottom: 10px;
+}
+.card-group > button{
+    background-color: rgb(243, 8, 8);
+    width: 100%;    
+    border-radius: 5px;
+    color: white;
+    border: 0px;
+    outline: 0px;
+    padding: 15px;
+
+
+}
+.card{
+    box-shadow:1px 1px 5px rgb(219, 179, 179);
+    background-color: rgb(84, 105, 99);
+    padding: 30px;
+    border-radius: 5px;
+}
+.card-top{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.card-top1{
+    text-align:center;
+    font-size: 8px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:white
+    
+    
+    
+}
+.imglogin{
+    border-radius: 100px;
+}
+
+input[type=button]{
+    width: 200px;
+    border-radius: 30px;
+    outline: 0;
+
+}
+

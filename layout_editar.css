@@ -1,0 +1,75 @@
+  
+.form{
+    width: 500px;
+    margin:auto;
+    padding-top: 100px;
+    border-radius: 5px;
+}
+
+
+.body,html{
+    height: 100%;
+    margin: 0px;
+}
+body{
+    
+    background-image:url(imagens/tela_f2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-color: black;
+    
+}
+.card-top{
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.card-top >input{
+    background-color:darkred;
+    color: white;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: large;
+}
+
+.card-group >input{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    background-position: center;
+    border-radius: 5px;
+    outline: 0;
+    width: 90%;
+    color: rgb(20, 21, 22);
+    padding: 5px;
+}
+
+
+
+.card{
+    box-shadow:1px 1px 3px rgb(209, 197, 197);
+    background-color: rgb(238, 228, 228);
+    padding: 30px;
+    border-radius: 5px;
+    height: 250px;
+}
+.borda_texto{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color:black;
+    font-size: 18px; color:darkred
+    
+}
+
+.card-top1{
+    text-align:left;
+    font-size: 8px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:white
+    
+    
+    
+}
+
+
